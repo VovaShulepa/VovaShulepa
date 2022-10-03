@@ -37,7 +37,7 @@
 <img alt="Sass" width="45" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img width="45px" alt="REACT" src="https://user-images.githubusercontent.com/36140849/97772583-c3481680-1b05-11eb-9487-7401ef226ee3.png" />
-><img width="45px" alt="NODE" src="https://user-images.githubusercontent.com/36140849/97772467-bd9e0100-1b04-11eb-8cad-3e5e2518f331.png" /></br></br></br>   
+<img width="45px" alt="NODE" src="https://user-images.githubusercontent.com/36140849/97772467-bd9e0100-1b04-11eb-8cad-3e5e2518f331.png" /></br></br></br>   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 </p>
@@ -46,6 +46,6 @@
 </br></br></br>
 
 
-<p align="left">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
