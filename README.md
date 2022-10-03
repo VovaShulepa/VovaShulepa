@@ -3,12 +3,13 @@
 </p>
 </br></br>
 <p align="center">
-  <h3>
-- 👋 I’m Shulepa Volodymyr
-- 👀 I’m interested in jobs search in IT Company
-- 🌱 I’m currently learning Frontend Developing
-- 💞️ I’m looking to collaborate on IT team
-- 📫 How to reach me shulepatrader@gmail.com</h3>
+  
+- 👋 <h5>I’m Shulepa Volodymyr</h5>
+- 👀 <h5>I’m interested in jobs search in IT Company</h5>
+- 🌱 <h5>I’m currently learning Frontend Developing</h5>
+- 💞️ <h5>I’m looking to collaborate on IT team</h5>
+- 📫 <h5>How to reach me shulepatrader@gmail.com</h5>
+
 </p>
 <h1 align="center">
   Let's Connect and have a Chat!💬
