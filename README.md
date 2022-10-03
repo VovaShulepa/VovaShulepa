@@ -37,3 +37,8 @@
 
 <img width="32px" alt="Figma" src="https://user-images.githubusercontent.com/36140849/97833487-51e5a080-1c8a-11eb-8852-600a52693d5a.png" />   <img width="32px" alt="PS" src="https://user-images.githubusercontent.com/36140849/97772829-d8be4000-1b07-11eb-882f-5ecae5908458.png" />
 
+
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
