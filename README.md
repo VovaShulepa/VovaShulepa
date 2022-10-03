@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
-</br></br>
-
+</br>
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
@@ -19,10 +18,7 @@
 </a>
 </p>
 
-
-
-
-<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2></br></br>
+<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2></br>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -35,10 +31,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 </p>
-
-
-</br></br></br>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
