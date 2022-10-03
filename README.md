@@ -1,14 +1,15 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
-
-
+</br></br>
+<p align="center">
+  <h1>
 - 👋 I’m Shulepa Volodymyr
 - 👀 I’m interested in jobs search in IT Company
 - 🌱 I’m currently learning Frontend Developing
 - 💞️ I’m looking to collaborate on IT team
-- 📫 How to reach me shulepatrader@gmail.com
-
+- 📫 How to reach me shulepatrader@gmail.com</h1>
+</p>
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
