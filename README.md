@@ -2,15 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 </br></br>
-<p align="center">
-  
-- 👋 <h5>I’m Shulepa Volodymyr</h5>
-- 👀 <h5>I’m interested in jobs search in IT Company</h5>
-- 🌱 <h5>I’m currently learning Frontend Developing</h5>
-- 💞️ <h5>I’m looking to collaborate on IT team</h5>
-- 📫 <h5>How to reach me shulepatrader@gmail.com</h5>
 
-</p>
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
