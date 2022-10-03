@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+
 - 👋 Hi, I’m Shulepa Volodymyr
 - 👀 I’m interested in jobs search in IT Company
 - 🌱 I’m currently learning Frontend Developing
